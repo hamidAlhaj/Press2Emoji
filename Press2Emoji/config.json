@@ -1,0 +1,10 @@
+{
+  "_default": { "image": "images/default.png" },
+
+  "a": { "image": "images/a.png" },
+  "b": { "image": "images/b.png" },
+  "c": { "image": "images/c.png" },
+  "d": { "image": "images/d.png" },
+  "e": { "image": "images/e.png" },
+  
+}
